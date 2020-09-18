@@ -19,6 +19,11 @@ const movies = [
     ratings: 3,
   },
   {
+    title: "terminator 4",
+    synopsis: "Sit alias animi nemo numquam optio recusandae, a repudiandae velit commodi ullam dolorem. Dolore nemo natus harum distinctio quae. Ullam, dolore quaerat.",
+    ratings: 4,
+  },
+  {
     title: "Joker",
     synopsis: "Pellentesque mauris elit, vulputate eu sagittis ut, molestie vitae orci. Integer rutrum, ex vitae sodales sagittis, risus neque consequat libero, eget lacinia orci nibh et turpis.",
     ratings: 5,
