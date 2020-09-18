@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const Movie = ({title, synopsis, pictureSrc, ratings}) => {
+const Movie = ({title, date, synopsis, pictureSrc, ratings}) => {
   return (
     <div
       class="wrapper max-w-xs bg-gray-50 rounded-b-md shadow-lg overflow-hidden"
@@ -12,6 +12,9 @@ const Movie = ({title, synopsis, pictureSrc, ratings}) => {
       <div class="p-3 space-y-3">
         <h3 class="text-gray-700 font-semibold text-md">
           { title }
+        </h3>
+        <h3 class="text-gray-700 font-semibold text-md">
+          { date }
         </h3>
         <p class="text-sm text-gray-900 leading-sm">
           { synopsis }
