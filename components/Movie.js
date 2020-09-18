@@ -1,4 +1,5 @@
 import React from 'react';
+import Comment from './Comment';
 
 
 const Movie = ({title, synopsis, pictureSrc, ratings}) => {
@@ -31,6 +32,7 @@ const Movie = ({title, synopsis, pictureSrc, ratings}) => {
             }
           </span>
         </p>
+        <Comment/>
       </div>
     </div>
   )
