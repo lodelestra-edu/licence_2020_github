@@ -19,7 +19,6 @@ const movies = [
     ratings: 3,
   },
   {
-<<<<<<< HEAD
     title: "Joker",
     synopsis: "Pellentesque mauris elit, vulputate eu sagittis ut, molestie vitae orci. Integer rutrum, ex vitae sodales sagittis, risus neque consequat libero, eget lacinia orci nibh et turpis.",
     ratings: 5,
@@ -30,8 +29,6 @@ const movies = [
     ratings: 0,
   },
   {
-=======
->>>>>>> e6c8b7a... Ajout du film Gladiator
     title: "Gladiator",
     synopsis: "Le général romain Maximus est le plus fidèle soutien de l'empereur Marc Aurèle, qu'il a conduit de victoire en victoire. Jaloux du prestige de Maximus, et plus encore de l'amour que lui voue l'empereur, le fils de Marc Aurèle, Commode, s'arroge brutalement le pouvoir, puis ordonne l'arrestation du général et son exécution. Maximus échappe à ses assassins, mais ne peut empêcher le massacre de sa famille. Capturé par un marchand d'esclaves, il devient gladiateur et prépare sa vengeance.",
     ratings: 5,
