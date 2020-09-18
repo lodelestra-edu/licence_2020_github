@@ -28,6 +28,11 @@ const movies = [
     synopsis: "Nulla tristique aliquet egestas. Nunc posuere dolor lorem, sit amet mattis mi sagittis nec. Nullam facilisis justo sit amet sem bibendum pretium.",
     ratings: 0,
   },
+  {
+    title: "Shrek 1",
+    synopsis: "Sans aucun doute le meilleur film jamais créé.",
+    ratings: 5,
+  },
     ]
 
 const Movies = () => {
