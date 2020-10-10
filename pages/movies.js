@@ -19,6 +19,11 @@ const movies = [
     ratings: 3,
   },
   {
+    title: "terminator 4",
+    synopsis: "Sit alias animi nemo numquam optio recusandae, a repudiandae velit commodi ullam dolorem. Dolore nemo natus harum distinctio quae. Ullam, dolore quaerat.",
+    ratings: 4,
+  },
+  {
     title: "Joker",
     synopsis: "Pellentesque mauris elit, vulputate eu sagittis ut, molestie vitae orci. Integer rutrum, ex vitae sodales sagittis, risus neque consequat libero, eget lacinia orci nibh et turpis.",
     ratings: 5,
@@ -27,6 +32,11 @@ const movies = [
     title: "Tenet",
     synopsis: "Nulla tristique aliquet egestas. Nunc posuere dolor lorem, sit amet mattis mi sagittis nec. Nullam facilisis justo sit amet sem bibendum pretium.",
     ratings: 0,
+  },
+  {
+    title: "Shrek 1",
+    synopsis: "Sans aucun doute le meilleur film jamais créé.",
+    ratings: 5,
   },
   {
     title: "Gladiator",
@@ -38,6 +48,11 @@ const movies = [
     synopsis: "Dom Cobb est un voleur expérimenté – le meilleur qui soit dans l’art périlleux de l’extraction : sa spécialité consiste à s’approprier les secrets les plus précieux d’un individu, enfouis au plus profond de son subconscient, pendant qu’il rêve et que son esprit est particulièrement vulnérable...",
     ratings: 5,
   },
+  {
+    title: "Interstellar",
+    synopsis: "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire.",
+    ratings: 5,
+  }
 ]
 
 const Movies = () => {
